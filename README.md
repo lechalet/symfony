@@ -58,3 +58,6 @@ symfony server:start
 
 link video quete 11:
 https://www.loom.com/share/e205165afee44da19e2b137b9e07b2a7
+
+link video quete 12:
+https://www.loom.com/share/85c63cf030504b66bf53c5afe48fb160
